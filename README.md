@@ -9,6 +9,10 @@ AI Prompt Generator is a minimalistic generator developed with JavaScript.
 - [Contributing](#contributing)
 - [License](#license)
 
+# Preview
+
+![Image Description](media/images/iPad%20Pro-1703108285091.jpeg)
+
 ## Installation
 
 To install the AI Prompt Generator, follow these steps:
