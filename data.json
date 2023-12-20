@@ -1,0 +1,158 @@
+{
+    "context":[
+        "Let's discuss [Topic] related to [Domain].",
+        "We can talk about [Topic] within the [Domain] context.",
+        "I'm interested in [Topic] in [Domain].",
+        "You can provide insights into [Topic] for [Domain].",
+        "Let's delve into [Topic] within the [Domain] field.",
+        "I'd like to explore [Topic] recommendations for [Domain].",
+        "Please provide step-by-step instructions for [Topic] in [Domain].",
+        "I want to learn more about [Topic] and its applications in [Domain].",
+        "I'm keen on exploring [Topic] within the context of [Domain].",
+        "We can focus on [Topic] as it relates to [Domain].",
+        "Let's dedicate some time to [Topic] in the realm of [Domain].",
+        "I'm looking to gain insights into [Topic] specific to [Domain].",
+        "We can deep dive into [Topic] within the scope of [Domain].",
+        "I'm open to discussing [Topic] recommendations for [Domain].",
+        "Could you provide guidance on [Topic] within [Domain]?",
+        "I'm eager to expand my knowledge of [Topic] and its role in [Domain].",
+        "Let's explore [Topic] and how it applies to [Domain].",
+        "I'm interested in [Topic] and its relevance in [Domain].",
+        "I'd like to learn more about [Topic] and its applications in [Domain].",
+        "I'm interrested to learn the basics of [Topic] in [Domain].",
+        "I'm interrested to understand the pros and cons of [Topic] in [Domain].",
+        "Let's make a comparison of [Topic] and [Topic] in [Domain]."
+    ],
+    "role":[
+        "AI, take on the role of a [Role] and help me with [Task].",
+        "I'd like to use you as a [Role] to [Task].",
+        "Assign yourself the role of a [Role] and assist me in [Task].",
+        "For this interaction, act as a [Role] and provide guidance on [Task].",
+        "I need your expertise as a [Role] to [Task].",
+        "Let's collaborate with you in the role of a [Role] for [Task].",
+        "In this scenario, play the part of a [Role] and advise me on [Task].",
+        "I'm designating you as a [Role] for [Task] support.",
+        "As a [Role], help me navigate through [Task].",
+        "Your current role is that of a [Role], focusing on [Task].",
+        "AI, step into the shoes of a [Role] to assist me with [Task].",
+        "I'd like to delegate the role of a [Role] to you for [Task].",
+        "You are now taking on the role of a [Role] for the purpose of [Task].",
+        "Assume the responsibilities of a [Role] and guide me through [Task].",
+        "In this context, function as a [Role] and provide insights on [Task].",
+        "Your mission is to be a [Role] and help me achieve [Task].",
+        "For this conversation, become a [Role] and address [Task].",
+        "As a [Role], support me in tackling [Task].",
+        "You've been designated as a [Role] to assist with [Task].",
+        "Take up the role of a [Role] and contribute to [Task]."
+    ],
+    "request":
+        {
+            "AI requests": [
+                "AI, please provide me with information on [Topic].",
+                "I need assistance with [Task]. Can you help me?",
+                "Could you explain the concept of [Concept] to me?",
+                "I'm looking for guidance on [Topic].",
+                "Can you generate a summary of [Article]?"
+            ],
+            "Help": [
+                "Please help me troubleshoot [Issue] in [System].",
+                "Assist me in setting up [Application] on my [System].",
+                "Help me configure [Software] for optimal performance.",
+                "Suggest strategies to improve [Metric] in my [System]."
+            ],
+            "Learning": [
+                "I'd like to learn more about [Skill/Tool].",
+                "Recommend books to enhance my knowledge in [Field].",
+                "Recommend online courses for mastering [Skill].",
+                "Suggest ways to improve my [Skill] skills.",
+                "I'd like to learn the basics of [Skill/Tool].",
+                "I'd like to understand the pros and cons of [Skill/Tool].",
+                "I'd like to learn the best practices for [Skill/Tool].",
+                "I'd like to learn the differences between [Skill/Tool] and [Skill/Tool].",
+                "Advise me on how to get started with [Skill/Tool].",
+                "I'd like to learn the fundamentals of [Skill/Tool]."
+            ],
+            "Automation": [
+                "I'm interested in automating [Task]. Can you offer guidance?",
+                "Generate code examples in [Programming Language] for [Task].",
+                "Provide step-by-step instructions for [Procedure].",
+                "Generate a script to automate [Task] using [Programming Language].",
+                "Generate sample data for testing [Application].",
+                "Provide me the algorithm for [Task] using [Programming Language]."
+            ],
+            "Concepts": [
+                "Explain the steps to optimize [Process] in a DevOps pipeline.",
+                "Help me understand the principles of [Concept].",
+                "Clarify the differences between [Concept] and [Concept].",
+                "Explain the key components of [Framework] in [Domain].",
+                "Clarify the best practices for securing [System]."
+            ],
+            "Recommendations": [
+                "Could you suggest some open source alternatives for [Software]?",
+                "Recommend AI frameworks for [Use Case].",
+                "Recommend a healthy diet plan for [Goal].",
+                "Recommend coding standards for [Programming Language].",
+                "Recommend tools for monitoring [Metric] in real-time."
+            ],
+            "Insights": [
+                "Provide insights into the latest developments in [Field].",
+                "Explain the role of [Component] in [System].",
+                "Provide an overview of [Historical Event].",
+                "Summarize the recent developments in [Industry].",
+                "Help me understand the architecture of [System].",
+                "Provide insights into the history of [Topic].",
+                "Explain the significance of [Event] in [Context]."
+            ],
+            "Planning": [
+                "Assist me in creating a project plan for [Project].",
+                "Help me create a timeline for [Project].",
+                "Help me create a Gantt chart for [Project].",
+                "Help me create a project roadmap for [Project].",
+                "Help me create a project schedule for [Project].",
+                "Could you help me to create tasks for [Project]?"
+            ]
+        },
+    "format":
+    {
+        "Textual": [
+            "Please provide the information in a concise bullet-point list.",
+            "I'd like the output in a detailed written explanation.",
+            "Format the output as a bulleted list with brief explanations.",
+            "Use a conversational tone in the written explanation.",
+            "Format the explanation as a Q&A-style document for quick reference."
+        ],
+        "Visual": [
+            "Create a visual diagram or chart to illustrate the key points.",
+            "Present the information in a visually appealing infographic.",
+            "Create a flowchart to illustrate the decision-making process.",
+            "Use a bullet-point format for summarizing key takeaways."
+        ],
+        "Structured": [
+            "Organize the output as a step-by-step tutorial with numbered instructions.",
+            "Include relevant references and sources for further reading.",
+            "Provide a report with a summary at the beginning for quick reference.",
+            "Include hyperlinks to external resources for further exploration.",
+            "Organize the output into sections with clear headings and subheadings.",
+            "Organize the output into sections with a table of contents for easy navigation.",
+            "Deliver the output in a well-structured outline or mind map.",
+            "Deliver the output in a text file with clear headings and subheadings."
+        ],
+        "Presentation": [
+            "Provide the output in a format suitable for a presentation slide.",
+            "Present the information in a slide deck with visual aids for a presentation."
+        ],
+        "File": [
+            "Generate a code snippet with comments for better understanding.",
+            "Summarize the findings in a one-page report with clear headings.",
+            "Provide the output as a downloadable PDF document.",
+            "Format the output as a spreadsheet for data analysis and manipulation.",
+            "Provide the output in a format suitable for integration into a document.",
+            "Provide the output in a format compatible with my preferred software or tool."
+        ],
+        "Media": [
+            "Include relevant screenshots or images to enhance understanding.",
+            "Provide the code snippet with syntax highlighting for readability.",
+            "Create a timeline or Gantt chart to illustrate project milestones."
+        ]
+    }    
+}
